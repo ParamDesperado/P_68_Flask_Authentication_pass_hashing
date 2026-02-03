@@ -5,10 +5,12 @@ A web application built with Flask that implements secure user authentication an
 ## Screenshots
 
 ### Home Page
+<img width="1280" height="472" alt="Screenshot 2026-02-03 at 10 39 30 AM" src="https://github.com/user-attachments/assets/7d080ee2-ed84-473c-a31f-998c00c2f626" />
 
 *The landing page interface.*
 
 ### User Dashboard (After Login)
+<img width="1280" height="432" alt="Screenshot 2026-02-03 at 10 39 52 AM" src="https://github.com/user-attachments/assets/b3e5875b-2857-471c-a866-da7dea39b312" />
 
 *The protected dashboard where users can download files.*
 
